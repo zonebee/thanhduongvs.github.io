@@ -7,7 +7,7 @@ external-image: false
 picture: 'assets/images/profile.jpg'
 
 url: http://koppl.in/indigo
-# your url: http://USERNAME.github.io
+# your url: http://thanhduongvs.github.io
 
 permalink: /:title/
 
@@ -25,7 +25,7 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: thanhduongvs
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -36,7 +36,7 @@ spotify: myspotify
 github: mygithub
 medium: medium
 vimeo: myvimeo
-email: myemail@gmail.com
+email: thanh.duong.vs@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
