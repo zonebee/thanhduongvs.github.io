@@ -26,16 +26,16 @@ disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 facebook: thanhduongvs
-twitter: mytwitter
+twitter: thanhduongvs
 google: mygoogle
 instagram: myinstagram
-pinterest: mypinterest
+# pinterest: mypinterest
 linkedin: mylinkedin
 youtube: myyoutube
 spotify: myspotify
 github: thanhduongvs
-medium: medium
-vimeo: myvimeo
+# medium: medium
+vimeo: thanhduongvs
 email: thanh.duong.vs@gmail.com
 
 # do you want a larger site? change the option below
