@@ -3,10 +3,10 @@ name: Vân Sơn
 bio: 'A Man who travels the world eating noodles'
 
 # if it's an external image, update below for true
-external-image: false
+external-image: true
 picture: 'assets/images/profile.jpg'
 
-url: http://koppl.in/indigo
+url: http://facebook.com
 # your url: http://thanhduongvs.github.io
 
 permalink: /:title/
@@ -27,10 +27,10 @@ disqus: mydisqus
 # if you don't have any of social below, comment the line
 facebook: thanhduongvs
 twitter: mytwitter
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-# linkedin: mylinkedin
+google: mygoogle
+instagram: myinstagram
+pinterest: mypinterest
+linkedin: mylinkedin
 youtube: myyoutube
 spotify: myspotify
 github: thanhduongvs
