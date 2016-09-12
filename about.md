@@ -25,7 +25,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <ul class="skill-list">
 	<li>ST (STMicroelectronics)</li>
-	<li>PCB Design</li>
 	<li>TI (Texas Instruments)</li>
 	<li>FRDM (Freescale)</li>
 	<li>PIC/dsPIC (Microchip)</li>
