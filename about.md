@@ -19,28 +19,27 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<h2>Skills</h2>
+<h1>Skills</h1>
 
-<h3>Microcontroller</h3>
+<h2>Microcontroller</h2>
 
 <ul class="skill-list">
 	<li>ST (STMicroelectronics)</li>
 	<li>Programming language</li>
 	<li>PCB Design</li>
 	<li>TI (Texas Instruments)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
+	<li>FRDM (Freescale)</li>
 	<li>PIC/dsPIC (Microchip)</li>
 	<li>AVR (Atmel)</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h3>PCB Design</h3>
+<h2>PCB Design</h2>
+
+<ul class="skill-list">
+	<li>Altium Designer</li>
+	<li>Cadence Allegro</li>
+	<li>PADS Design</li>
+</ul>
 
 <h2>Projects</h2>
 
