@@ -21,14 +21,16 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h2>Skills</h2>
 
+<h3>Microcontroller</h3>
+
 <ul class="skill-list">
-	<li>Microcontroller</li>
+	<li>ST (STMicroelectronics)</li>
 	<li>Programming language</li>
 	<li>PCB Design</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
+	<li>TI (Texas Instruments)</li>
 	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
+	<li>PIC/dsPIC (Microchip)</li>
+	<li>AVR (Atmel)</li>
 	<li>Grunt - Gulp - Yeoman</li>
 	<li>Git</li>
 	<li>PHP</li>
@@ -37,6 +39,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>Scrum and Kanban</li>
 	<li>TDD e Continuous Integration</li>
 </ul>
+
+<h3>PCB Design</h3>
 
 <h2>Projects</h2>
 
