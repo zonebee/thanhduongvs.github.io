@@ -25,7 +25,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <ul class="skill-list">
 	<li>ST (STMicroelectronics)</li>
-	<li>Programming language</li>
 	<li>PCB Design</li>
 	<li>TI (Texas Instruments)</li>
 	<li>FRDM (Freescale)</li>
@@ -39,6 +38,14 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>Altium Designer</li>
 	<li>Cadence Allegro</li>
 	<li>PADS Design</li>
+</ul>
+
+<h2>Programming language</h2>
+
+<ul class="skill-list">
+	<li>Visual Basic</li>
+	<li>C, C++, C#</li>
+	<li>Python</li>
 </ul>
 
 <h2>Projects</h2>
